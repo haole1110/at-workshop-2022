@@ -1,3 +1,7 @@
 Name:
 Hobby:
+<<<<<<< HEAD
 University: BK, HCMC
+
+ear: 3rd
+
